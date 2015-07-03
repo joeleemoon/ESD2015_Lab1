@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B4A1CC78-09E9-46BF-84D4-A13B58A32494</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D0EC0FDCE1D44ED545A24AF786BE0A7AF03D0405</key>
+		<string>https://github.com/joeleemoon/ESD2015_Lab1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cal.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D0EC0FDCE1D44ED545A24AF786BE0A7AF03D0405</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/joeleemoon/ESD2015_Lab1</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0EC0FDCE1D44ED545A24AF786BE0A7AF03D0405</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0EC0FDCE1D44ED545A24AF786BE0A7AF03D0405</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ESD2015_Lab1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
